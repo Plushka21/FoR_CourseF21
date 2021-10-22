@@ -1,0 +1,2 @@
+FRF21_lab1/gripper_pkg:FRF21_lab1/lab1_tut:FRF21_lab1/macro_tutorial:my_models
+-DCATKIN_DEVEL_PREFIX=/home/anton/in_class_act1/devel -DCMAKE_INSTALL_PREFIX=/home/anton/in_class_act1/install -G Unix Makefiles

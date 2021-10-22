@@ -1,0 +1,8 @@
+prefix=/home/anton/in_class_act1/install
+
+Name: my_models
+Description: Description of my_models
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

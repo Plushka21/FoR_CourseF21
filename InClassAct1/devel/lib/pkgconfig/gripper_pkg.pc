@@ -1,0 +1,8 @@
+prefix=/home/anton/in_class_act1/devel
+
+Name: gripper_pkg
+Description: Description of gripper_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
